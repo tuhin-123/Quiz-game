@@ -29,6 +29,21 @@
     {"question": "What is the chemical formula for table salt?", "options": ["NaCl", "H2O", "CO2", "CaCO3"], "answer": "NaCl", "category": "Science"},
     {"question": "Which element has the atomic number 1?", "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"], "answer": "Hydrogen", "category": "Science"},
     {"question": "What is the lightest element in the periodic table?", "options": ["Helium", "Hydrogen", "Lithium", "Oxygen"], "answer": "Hydrogen", "category": "Science"},
+    {"question": "What is 15 × 3?", "options": ["45", "30", "60", "50"], "answer": "45", "category": "Math"},
+    {"question": "What is 121 ÷ 11?", "options": ["9", "10", "11", "12"], "answer": "11", "category": "Math"},
+    {"question": "What is the value of π (up to 2 decimal places)?", "options": ["3.14", "3.15", "3.12", "3.13"], "answer": "3.14", "category": "Math"},
+    {"question": "What is 10% of 200?", "options": ["10", "20", "30", "40"], "answer": "20", "category": "Math"},
+    {"question": "What is the area of a rectangle with length 5 cm and width 4 cm?", "options": ["10 cm²", "15 cm²", "20 cm²", "25 cm²"], "answer": "20 cm²", "category": "Math"},
+    {"question": "What is the capital of Canada?", "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"], "answer": "Ottawa", "category": "Geography"},
+    {"question": "Which ocean is the largest?", "options": ["Atlantic", "Indian", "Arctic", "Pacific"], "answer": "Pacific", "category": "Geography"},
+    {"question": "Which country has the most population?", "options": ["USA", "India", "China", "Indonesia"], "answer": "India", "category": "Geography"},
+    {"question": "Which country is known for the Eiffel Tower?", "options": ["Italy", "Germany", "France", "Spain"], "answer": "France", "category": "Geography"},
+    {"question": "Mount Everest lies in which mountain range?", "options": ["Andes", "Alps", "Himalayas", "Rockies"], "answer": "Himalayas", "category": "Geography"},
+    {"question": "Which gas do plants absorb from the atmosphere?", "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"], "answer": "Carbon Dioxide", "category": "Science"},
+    {"question": "What is the boiling point of water?", "options": ["90°C", "95°C", "100°C", "105°C"], "answer": "100°C", "category": "Science"},
+    {"question": "What part of the cell contains DNA?", "options": ["Cytoplasm", "Nucleus", "Cell Wall", "Ribosome"], "answer": "Nucleus", "category": "Science"},
+    {"question": "Which part of the human body is affected by pneumonia?", "options": ["Heart", "Brain", "Lungs", "Liver"], "answer": "Lungs", "category": "Science"},
+    {"question": "Which instrument is used to measure temperature?", "options": ["Barometer", "Thermometer", "Anemometer", "Hygrometer"], "answer": "Thermometer", "category": "Science"},
     {"question": "What is the process by which plants make their own food?", "options": ["Photosynthesis", "Respiration", "Transpiration", "Fermentation"], "answer": "Photosynthesis", "category": "Science"}
   ]
   
